@@ -31,10 +31,4 @@ We understand that most of the trans literary scene is made up of indie authors,
 
 <p><i>Updated: December 13, 2024</i></p>
 """
-[[extra.content_blocks]]
-block = "newsletter"
-newsletter_title = "Join my mailing list"
-newsletter_description = "Get inspiration, updates and, cool stuff!"
-newsletter_identifier = ""
-newsletter_button = "Subscribe"
 +++
