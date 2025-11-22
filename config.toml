@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "https://transistance.press"
+base_url = "https://kitty-wise.github.io"
 
 title = "Transistance Press"
 author = "Transistance Press"
