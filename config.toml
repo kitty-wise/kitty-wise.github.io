@@ -29,9 +29,9 @@ highlight_code = false
 [extra]
 # Put all your custom variables here
 
-logo_image = "images/chain.jpg"
+logo_image = "images/chain.png"
 
-author_image = '/images/chain.jpg'
+author_image = '/images/chain.png'
 
 navigation = [
     { url = "$BASE_URL", title = "Home" },
@@ -41,11 +41,10 @@ navigation = [
 ]
 
 social_icons = [
-    { url = "https://bsky.app/profile/transistance.press", icon = "twitter" },
-    { url = "https://www.instagram.com/transistance.press", icon = "instagram"},
-    { url = "$BASE_URL/atom.xml", icon = "RSS" },
+    { url = "https://bsky.app/profile/transistance.press", name = "Bluesky" },
+    { url = "https://www.instagram.com/transistance.press", name = "Instagram"},
+    { url = "$BASE_URL/atom.xml", name = "RSS" },
 ]
-
 
 [[extra.content_blocks]]
 block = "hero"
