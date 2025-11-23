@@ -9,7 +9,7 @@ image = '/images/machines_of_consent_image.jpg'
 cover = '/images/machines_of_consent.jpg'
 +++
 
-​Machines of Consent is available to purchase on [itch.io](https://transistance.itch.io/machines-of-consent) or other storefronts.
+​Machines of Consent is available to purchase on [itch.io](https://transistance.itch.io/machines-of-consent) or [other storefronts](/links).
 
 > “A gem of a book with a killer hook & just enough line to set it & reel in its prey (you, the reader)… I predict this is going to be in contention for a lot of folks’ end-of-year lists. I know it’ll be on mine.” – Dani Finn
 

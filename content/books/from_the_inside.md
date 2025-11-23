@@ -9,7 +9,7 @@ image = '/images/from_the_inside.jpg'
 cover = '/images/from_the_inside.jpg'
 +++
 
-From The Inside is available to purchase on [itch.io](https://transistance.itch.io/from-the-inside) or other storefronts.
+From The Inside is available to purchase on [itch.io](https://transistance.itch.io/from-the-inside) or [other storefronts](/links).
 
 Ten tales of trans lesbian goodness. These stories cover a variety of topics and styles, at times funny, at other times emotional and intimate. With plenty of spice to go around.
 
