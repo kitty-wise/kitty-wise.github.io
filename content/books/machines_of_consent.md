@@ -13,7 +13,9 @@ cover = '/images/machines_of_consent.jpg'
 
 > “A gem of a book with a killer hook & just enough line to set it & reel in its prey (you, the reader)… I predict this is going to be in contention for a lot of folks’ end-of-year lists. I know it’ll be on mine.” – Dani Finn
 
-**_Longlisted for [Best Transfeminine Fiction of 2025](https://thetransfemininereview.com/2025/12/07/2025-longlist-best-fiction/)!_**
+**WINNER for [Outstanding Science Fiction - 2025 TFR Awards](https://thetransfemininereview.com/2025/12/31/the-2025-tfr-readers-choice-awards/#outstanding-science-fiction-machines-of-consent-by-sophia-turner)**
+
+**_Longlisted for [Best Transfeminine Fiction - 2025 TFR Awards](https://thetransfemininereview.com/2025/12/07/2025-longlist-best-fiction/)!_**
 
 Dr. Jess Stockton is a scientist with high goals and even higher ambitions. Through her efforts, she has created a device based around consent which has revolutionised society and drawn no small amount of attention both good and bad.
 
