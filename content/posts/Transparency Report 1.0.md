@@ -45,9 +45,9 @@ To be frank, we are not all the way there yet. Despite Machines of Consent going
 
 ## Conclusion
 
-We also wanted to take a moment to say we are deeply grateful for the support of our fellow trans authors, editors, and publishers. Finding the audience we have inspires us to forge ahead, and grow, both as individuals, and as a press. Being longlisted for The Transfeminine Review (TFR) Award for Best Transfeminine Fiction of 2025, and winning the TFR Award for Best Science Fiction show us that, whilst we can be critical of our failures, the community is excited about our successes. For that, we are deeply thankful.
+I also wanted to take a moment to say we are deeply grateful for the support of our fellow trans authors, editors, and publishers. Finding the audience we have inspires us to forge ahead, and grow, both as individuals, and as a press. Being longlisted for The Transfeminine Review (TFR) Award for Best Transfeminine Fiction of 2025, and winning the TFR Award for Best Science Fiction show us that, whilst we can be critical of our failures, the community is excited about our successes. For that, we are deeply thankful.
 
-Lastly, I wanted to take a moment to highlight some other recent successes from within the community:
+Lastly, I want to highlight some other recent successes from within the community:
 
 - [J. Ursula Topaz](https://bsky.app/profile/jemma.bsky.social)’s acerbic critique of queer publishing was bitingly funny, and a well-deserved winner of this year’s TFR Award for Best Contemporary Fiction.   
 - [Bailey Saxon](https://bsky.app/profile/b-saxon.femfactory.tech) and her 2025 releases and for winning the TFR Award for Best TG/TF or Transition Fantasy for Song of the Dryads.  
