@@ -24,7 +24,7 @@ taxonomies = [
 [markdown]
 # Whether to do syntax highlighting
 # Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
-highlight_code = false
+# highlight_code = false
 
 [extra]
 # Put all your custom variables here
@@ -37,6 +37,7 @@ navigation = [
     { url = "$BASE_URL", title = "Home" },
     { url = "$BASE_URL/books", title = "Books" },
     { url = "$BASE_URL/manifesto", title = "Manifesto" },
+    { url = "$BASE_URL/posts", title = "Posts" },
     { url = "$BASE_URL/links", title = "Links" },
     { url = "$BASE_URL/content_warnings", title = "Content Warnings" },
 ]
