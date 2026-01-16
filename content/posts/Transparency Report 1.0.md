@@ -9,8 +9,6 @@ image = '/images/fti_moc.jpg'
 cover = '/images/fti_moc.jpg'
 +++
 
-# Transparency Report 1
-
 A guiding principle that was vitally important to me when co-founding Transistance Press was the goal of being active members of the transfeminine literature community. I wanted to better contribute to and help uplift a community that I loved, in a time when we are facing ever-greater systemic challenges and oppression around the world. 
 
 The past 13 months have seen both of us grow significantly. Our goal in establishing the press was to “uplift trans creativity and preserve open access to our literature.” We knew at the time that this was a lofty goal for two people to achieve, which is why we wanted to take things slow and to find our feet properly. Going into 2026, we are far better equipped to face the challenges ahead than we were going into 2025\. 
