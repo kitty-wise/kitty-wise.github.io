@@ -23,7 +23,7 @@ Resisting the political pressures that conflates trans identity with pornography
 
 Protecting sex work, smut, and other maligned parts of the broader trans experience is an important part of preserving the honest and real experiences of trans people. Preserving our community’s unique connection to sex, sexuality, and sexual expression is a vital part of any attempt to preserve authentic trans art and creativity. 
 
-The sexual expression of trans people is unique and deserves to be celebrated.
+The sexual expression of trans people deserves to be celebrated and safeguarded.
 
 ## By The Numbers
 
