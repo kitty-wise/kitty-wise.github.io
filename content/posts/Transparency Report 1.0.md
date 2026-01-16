@@ -1,6 +1,6 @@
 +++
 date = "2026-01-16"
-title = "Transparency Report 1.0"
+title = "Transparency Report 1"
 description = "A look behind the scenes at our first thousand sales and the lessons we learned."
 [taxonomies]
 themes = ["trans"]
@@ -9,7 +9,7 @@ image = '/images/fti_moc.jpg'
 cover = '/images/fti_moc.jpg'
 +++
 
-# Transistance Transparency Report \#1
+# Transparency Report 1
 
 A guiding principle that was vitally important to me when co-founding Transistance Press was the goal of being active members of the transfeminine literature community. I wanted to better contribute to and help uplift a community that I loved, in a time when we are facing ever-greater systemic challenges and oppression around the world. 
 
