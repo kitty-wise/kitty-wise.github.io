@@ -3,7 +3,7 @@ date = "2026-01-16"
 title = "Transparency Report 1"
 description = "A look behind the scenes at our first thousand sales and the lessons we learned."
 [taxonomies]
-themes = ["trans"]
+themes = []
 [extra]
 image = '/images/fti_moc.jpg'
 cover = '/images/fti_moc.jpg'
