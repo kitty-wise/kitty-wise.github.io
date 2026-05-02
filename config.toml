@@ -51,7 +51,7 @@ social_icons = [
 [[extra.content_blocks]]
 block = "hero"
 title = "MOVED"
-description_html = "Transistance Press has merged with Galaxy Moth Press to create: <a href='https://prismata.press'>Prismata Press</a>"
+description_html = "Transistance Press has merged with Galaxy Moth Press to create: <a href='https://prismata.press' style='color: #0000ff'>Prismata Press</a>"
 image = "/images/Trans_chains.png"
 image_alt = "Transistance Press Icon"
 
